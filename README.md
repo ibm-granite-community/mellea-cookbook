@@ -28,6 +28,10 @@ This **Cookbook** teaches Mellea through "Recipes" — bite-sized, runnable note
    <a target="_blank" href="https://colab.research.google.com/github/generative-computing/mellea-cookbook/blob/main/recipes/QuickStart/QuickStart.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
+1. [Structured Sentiment Classifier](recipes/SentimentClassifier/SentimentClassifier.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/SentimentClassifier/SentimentClassifier.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
 1. [Instruct-Validate-Repair](recipes/InstructValidateRepair/InstructValidateRepair.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/generative-computing/mellea-cookbook/blob/main/recipes/InstructValidateRepair/InstructValidateRepair.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
