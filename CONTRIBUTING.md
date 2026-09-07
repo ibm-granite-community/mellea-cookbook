@@ -79,7 +79,7 @@ Then add the public key (`~/.ssh/id_ed25519.pub`) to your GitHub account under *
 
 Create a new directory under `recipes/` named after your recipe (PascalCase):
 
-```
+```text
 recipes/
 └── YourRecipeName/
     └── YourRecipeName.ipynb
@@ -118,7 +118,7 @@ Follow this cell order:
 
 Open `.github/notebook_lists/vanilla_notebooks.txt` and add one line:
 
-```
+```text
 recipes/YourRecipeName/YourRecipeName.ipynb
 ```
 
