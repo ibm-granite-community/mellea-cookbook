@@ -1,4 +1,5 @@
 recipes/QuickStart/QuickStart.ipynb
 recipes/InstructValidateRepair/InstructValidateRepair.ipynb
 recipes/StructuredDataExtraction/StructuredDataExtraction.ipynb
+recipes/ProgressiveTokenStreaming/ProgressiveTokenStreaming.ipynb
 recipes/SentimentClassifier/SentimentClassifier.ipynb
