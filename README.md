@@ -41,6 +41,13 @@ This **Cookbook** teaches Mellea through "Recipes" — bite-sized, runnable note
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
 
+### Production
+
+1. [Deploying a Generative Program as an API with `m serve`](recipes/DeployGenerativeProgram/DeployGenerativeProgram.ipynb) — Turn a validated PII redactor into an OpenAI-compatible REST API with one command, then package it in a container.
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/DeployGenerativeProgram/DeployGenerativeProgram.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
+
 ## Build Status
 
 <a href="https://github.com/ibm-granite-community/mellea-cookbook/actions/workflows/notebooks.yaml">
