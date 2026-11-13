@@ -40,6 +40,8 @@ This **Cookbook** teaches Mellea through "Recipes" — bite-sized, runnable note
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/StructuredDataExtraction/StructuredDataExtraction.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
+1. [Progressive Token Streaming](recipes/ProgressiveTokenStreaming/ProgressiveTokenStreaming.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/ProgressiveTokenStreaming/ProgressiveTokenStreaming.ipynb">
 1. [Naive RAG vs. Mellea RAG: Validated Citations](recipes/NaiveRAGvsMelleaRAG/NaiveRAGvsMelleaRAG.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/NaiveRAGvsMelleaRAG/NaiveRAGvsMelleaRAG.ipynb">
 1. [LangChain Agent vs. Mellea Agent: Planning a Trip, Two Ways](recipes/LangChainAgentVsMelleaAgent/LangChainAgentVsMelleaAgent.ipynb)
@@ -62,7 +64,7 @@ This **Cookbook** teaches Mellea through "Recipes" — bite-sized, runnable note
 
 ## Contributing
 
-For information about contributing to this repo, code of conduct guidelines, etc., see the community [CONTRIBUTING][CG] and [Code of Conduct][CoC] guides. All commits require [DCO-signoff][CG-legal] _and_ [GPG or SSH signing][CG-signing]. The GitHub recommended code security settings are enforced on this public repository (which include the signing requirement).
+For information about contributing to this repo, code of conduct guidelines, etc., see the community [CONTRIBUTING][CG] and [Code of Conduct][CoC] guides. All commits require [DCO-signoff][CG-legal] *and* [GPG or SSH signing][CG-signing]. The GitHub recommended code security settings are enforced on this public repository (which include the signing requirement).
 
 <!-- For more background, please see the [community discussions](https://github.com/orgs/generative-computing/discussions). -->
 
