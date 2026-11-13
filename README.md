@@ -40,6 +40,8 @@ This **Cookbook** teaches Mellea through "Recipes" — bite-sized, runnable note
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/StructuredDataExtraction/StructuredDataExtraction.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
+1. [Naive RAG vs. Mellea RAG: Validated Citations](recipes/NaiveRAGvsMelleaRAG/NaiveRAGvsMelleaRAG.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/NaiveRAGvsMelleaRAG/NaiveRAGvsMelleaRAG.ipynb">
 1. [LangChain Agent vs. Mellea Agent: Planning a Trip, Two Ways](recipes/LangChainAgentVsMelleaAgent/LangChainAgentVsMelleaAgent.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/LangChainAgentVsMelleaAgent/LangChainAgentVsMelleaAgent.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
