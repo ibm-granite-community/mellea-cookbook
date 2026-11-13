@@ -3,3 +3,5 @@ recipes/InstructValidateRepair/InstructValidateRepair.ipynb
 recipes/StructuredDataExtraction/StructuredDataExtraction.ipynb
 recipes/SentimentClassifier/SentimentClassifier.ipynb
 recipes/DeployGenerativeProgram/DeployGenerativeProgram.ipynb
+recipes/NaiveRAGvsMelleaRAG/NaiveRAGvsMelleaRAG.ipynb
+recipes/LangChainAgentVsMelleaAgent/LangChainAgentVsMelleaAgent.ipynb
