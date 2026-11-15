@@ -6,3 +6,5 @@ recipes/SentimentClassifier/SentimentClassifier.ipynb
 recipes/DeployGenerativeProgram/DeployGenerativeProgram.ipynb
 recipes/NaiveRAGvsMelleaRAG/NaiveRAGvsMelleaRAG.ipynb
 recipes/LangChainAgentVsMelleaAgent/LangChainAgentVsMelleaAgent.ipynb
+recipes/SQLModernization/SQLModernization.ipynb
+recipes/SupportTicketTriage/SupportTicketTriage.ipynb

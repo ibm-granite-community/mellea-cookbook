@@ -42,16 +42,25 @@ This **Cookbook** teaches Mellea through "Recipes" — bite-sized, runnable note
    </a>
 1. [Progressive Token Streaming](recipes/ProgressiveTokenStreaming/ProgressiveTokenStreaming.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/ProgressiveTokenStreaming/ProgressiveTokenStreaming.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
 1. [Naive RAG vs. Mellea RAG: Validated Citations](recipes/NaiveRAGvsMelleaRAG/NaiveRAGvsMelleaRAG.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/NaiveRAGvsMelleaRAG/NaiveRAGvsMelleaRAG.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
 1. [LangChain Agent vs. Mellea Agent: Planning a Trip, Two Ways](recipes/LangChainAgentVsMelleaAgent/LangChainAgentVsMelleaAgent.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/LangChainAgentVsMelleaAgent/LangChainAgentVsMelleaAgent.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
-
-### Production
-
-1. [Deploying a Generative Program as an API with `m serve`](recipes/DeployGenerativeProgram/DeployGenerativeProgram.ipynb) — Turn a validated PII redactor into an OpenAI-compatible REST API with one command, then package it in a container.
+1. [SQL Query Modernization with Instruct-Validate-Repair](recipes/SQLModernization/SQLModernization.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/SQLModernization/SQLModernization.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
+1. [Support Ticket Triage with Typed Multi-Agent Handoffs](recipes/SupportTicketTriage/SupportTicketTriage.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/SupportTicketTriage/SupportTicketTriage.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
+1. [Deploying a Generative Program as an API with `m serve`](recipes/DeployGenerativeProgram/DeployGenerativeProgram.ipynb)
    <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/DeployGenerativeProgram/DeployGenerativeProgram.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
